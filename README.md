@@ -1,5 +1,5 @@
 # Analise_de_Algoritmos_e_Estrutura_de_Dados
-<p align="justify">Este repositório reune todos os exercícios práticos desenvolvidos e implementados na Disciplina (Unidade Curricular - UC) de Análise de Algoritmos e Estrutura de Dados do PPG-CC da UniFeSP São José dos Campos (Mestrado Stricto-Sensu)</p>
+## <p align="justify">Este repositório reune todos os exercícios práticos desenvolvidos e implementados na Disciplina (Unidade Curricular - UC) de Análise de Algoritmos e Estrutura de Dados do PPG-CC da UniFeSP São José dos Campos (Mestrado Stricto-Sensu)</p>
 
 ![Leiame_GitHub_JPG](https://github.com/user-attachments/assets/4eb0f501-fd1a-47bb-8c75-c614df23f9eb)
 
